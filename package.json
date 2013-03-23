@@ -1,12 +1,12 @@
 {
   "name": "SST",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Student Success Tracker",
-  "main": "sst.js",
+  "main": "server.js",
   "author": "Janet Noye",
-  "license": "(c) 2012, All right reserved.",
+  "license": "(c) 2013, All right reserved.",
   "dependencies": {
-    "vows": "~0.6.4"
+    "mysql": "~2.0.0"
   },
   "repository": {
     "type": "git",
