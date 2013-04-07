@@ -6,7 +6,9 @@
   "author": "Janet Noye",
   "license": "(c) 2013, All right reserved.",
   "dependencies": {
-    "mysql": "~2.0.0"
+    "mysql": "~2.0.0",
+    "db-migrate": "0.4.1",
+    "async": "0.2.6"
   },
   "repository": {
     "type": "git",
