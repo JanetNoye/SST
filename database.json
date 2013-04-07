@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "SSTManager",
+    "password": "hK3f9TxMeE3eIQg",
+    "database": "sst"
+  },
+
+  "prod": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "root"
+  }
+}
