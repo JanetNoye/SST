@@ -1,3 +1,4 @@
-// Validate the database
-// launch the REST server
-// launch the UI server
+var server = module.exports = function(){};
+
+var crud = require('./crud/server');
+crud.start(4000);
